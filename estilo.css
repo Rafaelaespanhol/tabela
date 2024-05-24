@@ -1,0 +1,14 @@
+.tabela{
+    border: 5px dotted rgb(255, 14, 14); 
+    background-color: rgb(198, 242, 255); 
+}
+
+.tabela th,
+.tabela td{
+    border: 2px dashed rgb(255, 27, 27); 
+}
+
+.destaque{
+    background-color: rgb(224, 19, 19);
+    color:white; 
+}
